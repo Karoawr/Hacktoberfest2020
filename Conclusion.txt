@@ -1,0 +1,4 @@
+so apparently u just make a new branch whenever you edit something, and you make a pull request when you want 
+your branch to be merged with the master branch
+
+that makes sense, but then what do you do if there's an error or some sort of overlap?
